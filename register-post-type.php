@@ -2,7 +2,7 @@
 
 /*
  * Plugin Name: Phones Custom Post Type
- * Plugin URI:
+ * Plugin URI: https://github.com/klhall1987/custom-post-type-example
  * Description: An example of how to build a custom post type and attach custom taxonomies in WordPress.
  * Version: 1.0
  * Author: Kenny Hall
